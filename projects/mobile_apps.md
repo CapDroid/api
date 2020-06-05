@@ -22,4 +22,4 @@
 
 - [COVID19 India](https://github.com/iamnishanth/Covid19India) (by Nishanth [@iamNishanth](https://github.com/iamnishanth))
 
-- [C-Meter India](https://drive.google.com/open?id=13F6h7XeTkcMBoSPbzoAg-xnZXqCohFOx) (by Niranj Patel [@niranj.captain](https://github.com/niranj.captain))
+- [C-Meter India](https://drive.google.com/open?id=13F6h7XeTkcMBoSPbzoAg-xnZXqCohFOx) (by Niranj Patel [@CapDroid](https://github.com/CapDroid))
